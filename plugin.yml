@@ -1,0 +1,13 @@
+name: JavaForBukkit
+version: 1.0
+main: me.diego.jfb.Main
+
+commands:
+    teste:
+    npegar:
+    pegar:
+    trabalho:
+    minerador:
+    tijoleiro:
+    cimenteiro:
+    cimento:
